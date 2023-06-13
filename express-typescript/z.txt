@@ -4,5 +4,5 @@ npm run tsc -- --init
 npm install express -E
 npm install @types/express -D -express
 npm install ts-node-dev -D -E
-"resolveJsonModule": true -> en tsconfig.json para leer .json
+"resolveJsonModule": true → en tsconfig.json para leer .json
 npm install ts-standard -D -E
